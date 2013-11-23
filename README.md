@@ -12,4 +12,4 @@ suite<tab>
 test<tab>
 ```
 
-![usage](http://screencast-o-matic.com/embed?sc=cIX0FoVRZs&w=694&v=3)
+![usage](http://youtu.be/YYr0FViz46c)
