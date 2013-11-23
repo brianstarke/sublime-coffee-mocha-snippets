@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+<![CDATA[
+it '${1:should do what...}', ${2:(done)} ->
+  ${3:#...}
+]]>
+  </content>
+  <tabTrigger>it</tabTrigger>
+  <scope>source.coffee</scope>
+  <description>it() testing</description>
+</snippet>
