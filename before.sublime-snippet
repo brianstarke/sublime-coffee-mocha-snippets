@@ -1,0 +1,11 @@
+<snippet>
+  <content>
+<![CDATA[
+before${1:Each} ${2:(done)} ->
+  ${3:#...}
+  done()
+]]>
+</content>
+  <tabTrigger>befr</tabTrigger>
+  <scope>source.coffee</scope>
+</snippet>
