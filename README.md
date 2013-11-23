@@ -12,4 +12,4 @@ suite<tab>
 test<tab>
 ```
 
-![usage](http://youtu.be/YYr0FViz46c)
+[usage](http://youtu.be/YYr0FViz46c)
