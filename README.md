@@ -12,4 +12,4 @@ suite<tab>
 test<tab>
 ```
 
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://www.youtube.com/watch?v=YYr0FViz46c)
+![usage](http://screencast-o-matic.com/embed?sc=cIX0FoVRZs&w=694&v=3)
